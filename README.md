@@ -1,7 +1,7 @@
 # Leetcode Solutions
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/elevhate/Leetcode)](https://github.com/elevhate/Leetcode/commits/main)
-[![GitHub repo size](https://img.shields.io/github/repo-size/elevhate/Leetcode)](https://github.com/elevhate/Leetcode/archive/main.zip)
+[![GitHub last commit](https://img.shields.io/github/last-commit/easghost/Leetcode)](https://github.com/easghost/Leetcode/commits/main)
+[![GitHub repo size](https://img.shields.io/github/repo-size/easghost/Leetcode)](https://github.com/easghost/Leetcode/archive/main.zip)
 
 
 |     Number    | Name | Difficulty | Solution |
@@ -107,15 +107,19 @@
 | 1741 | Find Total Time Spent by Each Employee | Easy | [Solution](/problems/1741%20-%20Find%20Total%20Time%20Spent%20by%20Each%20Employee/) |
 | 1757 | Recyclable and Low Fat Products | Easy | [Solution](/problems/1757%20-%20Recyclable%20and%20Low%20Fat%20Products/) |
 | 1768 | Merge Strings Alternately | Easy | [Solution](/problems/1768%20-%20Merge%20Strings%20Alternately/) |
+| 1790 | Check if One String Swap Can Make Strings Equal | Easy | [Solution](/problems/1790%20-%20Check%20if%20One%20String%20Swap%20Can%20Make%20Strings%20Equal/) |
 | 1795 | Rearrange Products Table | Easy | [Solution](/problems/1795%20-%20Rearrange%20Products%20Table/) |
 | 1822 | Sign of the Product of an Array | Easy | [Solution](/problems/1822%20-%20Sign%20of%20the%20Product%20of%20an%20Array/) |
 | 1832 | Check if the Sentence Is Pangram | Easy | [Solution](/problems/1832%20-%20Check%20if%20the%20Sentence%20Is%20Pangram/) |
 | 1909 | Remove One Element to Make the Array Strictly Increasing | Easy | [Solution](/problems/1909%20-%20Remove%20One%20Element%20to%20Make%20the%20Array%20Strictly%20Increasing/) |
+| 1910 | Remove All Occurrences of a Substring | Medium | [Solution](/problems/1910%20-%20Remove%20All%20Occurrences%20of%20a%20Substring/) |
 | 1920 | Build Array from Permutation | Easy | [Solution](/problems/1920%20-%20Build%20Array%20from%20Permutation/) |
 | 1929 | Concatenation of Array | Easy | [Solution](/problems/1929%20-%20Concatenation%20of%20Array/) |
 | 1976 | Number of Ways to Arrive at Destination | Medium | [Solution](/problems/1935%20-%20Maximum%20Number%20of%20Words%20You%20Can%20Type/) |
 | 2011 | Final Value of Variable After Performing Operations | Easy | [Solution](/problems/2011%20-%20Final%20Value%20of%20Variable%20After%20Performing%20Operations/) |
 | 2089 | Find Target Indices After Sorting Array | Easy | [Solution](/problems/2089%20-%20Find%20Target%20Indices%20After%20Sorting%20Array/) |
 | 2114 | Maximum Number of Words Found in Sentences | Easy | [Solution](/problems/2114%20-%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences/) |
-| 2220 | Minimum Bit Flips to Convert Number | Easy | [Solution](/problems//2220%20-%20Minimum%20Bit%20Flips%20to%20Convert%20Number/) |
+| 2220 | Minimum Bit Flips to Convert Number | Easy | [Solution](/problems/2220%20-%20Minimum%20Bit%20Flips%20to%20Convert%20Number/) |
+| 2529 | Maximum Count of Positive Integer and Negative Integer | Easy | [Solution](/problems/2529%20-%20Maximum%20Count%20of%20Positive%20Integer%20and%20Negative%20Integer/) |
 | 2839 | Check if Strings Can be Made Equal With Operations I | Easy | [Solution](/problems/2839%20-%20Check%20if%20Strings%20Can%20be%20Made%20Equal%20With%20Operations%20I/) |
+| 2924 | Find Champion II | Medium | [Solution](/problems/2924%20-%20Find%20Champion%20II/) |
