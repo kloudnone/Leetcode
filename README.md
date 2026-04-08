@@ -119,7 +119,10 @@
 | 2011 | Final Value of Variable After Performing Operations | Easy | [Solution](/problems/2011%20-%20Final%20Value%20of%20Variable%20After%20Performing%20Operations/) |
 | 2089 | Find Target Indices After Sorting Array | Easy | [Solution](/problems/2089%20-%20Find%20Target%20Indices%20After%20Sorting%20Array/) |
 | 2114 | Maximum Number of Words Found in Sentences | Easy | [Solution](/problems/2114%20-%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences/) |
+| 2206 | Divide Array Into Equal Pairs | Easy | [Solution](/problems/2206%20-%20Divide%20Array%20Into%20Equal%20Pairs/) |
 | 2220 | Minimum Bit Flips to Convert Number | Easy | [Solution](/problems/2220%20-%20Minimum%20Bit%20Flips%20to%20Convert%20Number/) |
 | 2529 | Maximum Count of Positive Integer and Negative Integer | Easy | [Solution](/problems/2529%20-%20Maximum%20Count%20of%20Positive%20Integer%20and%20Negative%20Integer/) |
 | 2839 | Check if Strings Can be Made Equal With Operations I | Easy | [Solution](/problems/2839%20-%20Check%20if%20Strings%20Can%20be%20Made%20Equal%20With%20Operations%20I/) |
 | 2924 | Find Champion II | Medium | [Solution](/problems/2924%20-%20Find%20Champion%20II/) |
+| 3354 | Make Array Elements Equal to Zero | [Solution](/problems/3354%20-%20Make%20Array%20Elements%20Equal%20to%20Zero/) |
+| 3653 | XOR After Range Multiplication Queries I | Medium | [Solution](/problems/3653%20-%20XOR%20After%20Range%20Multiplication%20Queries%20I/) |
