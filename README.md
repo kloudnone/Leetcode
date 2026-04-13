@@ -111,6 +111,7 @@
 | 1795 | Rearrange Products Table | Easy | [Solution](/problems/1795%20-%20Rearrange%20Products%20Table/) |
 | 1822 | Sign of the Product of an Array | Easy | [Solution](/problems/1822%20-%20Sign%20of%20the%20Product%20of%20an%20Array/) |
 | 1832 | Check if the Sentence Is Pangram | Easy | [Solution](/problems/1832%20-%20Check%20if%20the%20Sentence%20Is%20Pangram/) |
+| 1848 | Minimum Distance to the Target Element | Easy | [Solution](/problems/1848%20-%20Minimum%20Distance%20to%20the%20Target%20Element/) |
 | 1909 | Remove One Element to Make the Array Strictly Increasing | Easy | [Solution](/problems/1909%20-%20Remove%20One%20Element%20to%20Make%20the%20Array%20Strictly%20Increasing/) |
 | 1910 | Remove All Occurrences of a Substring | Medium | [Solution](/problems/1910%20-%20Remove%20All%20Occurrences%20of%20a%20Substring/) |
 | 1920 | Build Array from Permutation | Easy | [Solution](/problems/1920%20-%20Build%20Array%20from%20Permutation/) |
