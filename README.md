@@ -111,6 +111,7 @@
 | 1795 | Rearrange Products Table | Easy | [Solution](/problems/1795%20-%20Rearrange%20Products%20Table/) |
 | 1822 | Sign of the Product of an Array | Easy | [Solution](/problems/1822%20-%20Sign%20of%20the%20Product%20of%20an%20Array/) |
 | 1832 | Check if the Sentence Is Pangram | Easy | [Solution](/problems/1832%20-%20Check%20if%20the%20Sentence%20Is%20Pangram/) |
+| 1848 | Minimum Distance to the Target Element | Easy | [Solution](/problems/1848%20-%20Minimum%20Distance%20to%20the%20Target%20Element/) |
 | 1909 | Remove One Element to Make the Array Strictly Increasing | Easy | [Solution](/problems/1909%20-%20Remove%20One%20Element%20to%20Make%20the%20Array%20Strictly%20Increasing/) |
 | 1910 | Remove All Occurrences of a Substring | Medium | [Solution](/problems/1910%20-%20Remove%20All%20Occurrences%20of%20a%20Substring/) |
 | 1920 | Build Array from Permutation | Easy | [Solution](/problems/1920%20-%20Build%20Array%20from%20Permutation/) |
@@ -119,8 +120,12 @@
 | 2011 | Final Value of Variable After Performing Operations | Easy | [Solution](/problems/2011%20-%20Final%20Value%20of%20Variable%20After%20Performing%20Operations/) |
 | 2089 | Find Target Indices After Sorting Array | Easy | [Solution](/problems/2089%20-%20Find%20Target%20Indices%20After%20Sorting%20Array/) |
 | 2114 | Maximum Number of Words Found in Sentences | Easy | [Solution](/problems/2114%20-%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences/) |
+| 2206 | Divide Array Into Equal Pairs | Easy | [Solution](/problems/2206%20-%20Divide%20Array%20Into%20Equal%20Pairs/) |
 | 2220 | Minimum Bit Flips to Convert Number | Easy | [Solution](/problems/2220%20-%20Minimum%20Bit%20Flips%20to%20Convert%20Number/) |
+| 2515 | Shortest Distance to Target String in a Circular Array | Easy | [Solution](/problems/2515%20-%20Shortest%20Distance%20to%20Target%20String%20in%20a%20Circular%20Array/) |
 | 2529 | Maximum Count of Positive Integer and Negative Integer | Easy | [Solution](/problems/2529%20-%20Maximum%20Count%20of%20Positive%20Integer%20and%20Negative%20Integer/) |
 | 2839 | Check if Strings Can be Made Equal With Operations I | Easy | [Solution](/problems/2839%20-%20Check%20if%20Strings%20Can%20be%20Made%20Equal%20With%20Operations%20I/) |
 | 2924 | Find Champion II | Medium | [Solution](/problems/2924%20-%20Find%20Champion%20II/) |
+| 3354 | Make Array Elements Equal to Zero | [Solution](/problems/3354%20-%20Make%20Array%20Elements%20Equal%20to%20Zero/) |
+| 3653 | XOR After Range Multiplication Queries I | Medium | [Solution](/problems/3653%20-%20XOR%20After%20Range%20Multiplication%20Queries%20I/) |
 | 3783 | Mirror Distance of an Integer | Easy | [Solution](/problems/3783%20-%20Mirror%20Distance%20of%20an%20Integer/) |
