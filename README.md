@@ -118,6 +118,7 @@
 | 1929 | Concatenation of Array | Easy | [Solution](/problems/1929%20-%20Concatenation%20of%20Array/) |
 | 1976 | Number of Ways to Arrive at Destination | Medium | [Solution](/problems/1935%20-%20Maximum%20Number%20of%20Words%20You%20Can%20Type/) |
 | 2011 | Final Value of Variable After Performing Operations | Easy | [Solution](/problems/2011%20-%20Final%20Value%20of%20Variable%20After%20Performing%20Operations/) |
+| 2078 | Two Furthest Houses With Different Colors | Easy | [Solution](/problems/2078%20-%20Two%20Furthest%20Houses%20With%20Different%20Colors/) |
 | 2089 | Find Target Indices After Sorting Array | Easy | [Solution](/problems/2089%20-%20Find%20Target%20Indices%20After%20Sorting%20Array/) |
 | 2114 | Maximum Number of Words Found in Sentences | Easy | [Solution](/problems/2114%20-%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences/) |
 | 2206 | Divide Array Into Equal Pairs | Easy | [Solution](/problems/2206%20-%20Divide%20Array%20Into%20Equal%20Pairs/) |
