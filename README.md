@@ -125,6 +125,7 @@
 | 2220 | Minimum Bit Flips to Convert Number | Easy | [Solution](/problems/2220%20-%20Minimum%20Bit%20Flips%20to%20Convert%20Number/) |
 | 2515 | Shortest Distance to Target String in a Circular Array | Easy | [Solution](/problems/2515%20-%20Shortest%20Distance%20to%20Target%20String%20in%20a%20Circular%20Array/) |
 | 2529 | Maximum Count of Positive Integer and Negative Integer | Easy | [Solution](/problems/2529%20-%20Maximum%20Count%20of%20Positive%20Integer%20and%20Negative%20Integer/) |
+| 2553 | Separate the Digits in an Array | Easy | [Solution](/problems/2553%20-%20Separate%20the%20Digits%20in%20an%20Array/) |
 | 2833 | Furthest Point From Origin | Easy | [Solution](/problems/) |
 | 2839 | Check if Strings Can be Made Equal With Operations I | Easy | [Solution](/problems/2839%20-%20Check%20if%20Strings%20Can%20be%20Made%20Equal%20With%20Operations%20I/) |
 | 2924 | Find Champion II | Medium | [Solution](/problems/2924%20-%20Find%20Champion%20II/) |

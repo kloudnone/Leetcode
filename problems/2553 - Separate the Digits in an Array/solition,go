@@ -1,0 +1,11 @@
+func separateDigits(nums []int) []int {
+    result := []int{}
+    for _, num := range nums {
+        str := strconv.Itoa(num)
+        for _, ch := range str {
+            result = append(result, int(ch-'0'))
+        }
+    }
+
+    return result
+}
